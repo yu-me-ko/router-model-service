@@ -1,3 +1,14 @@
 .venv/
+.venv_gpu/
 __pycache__/
-saved_models/
+*.pyc
+outputs/
+*.log
+.DS_Store
+.pytest_cache/
+.idea/
+.vscode/
+saved_models/router_distilbert_backup_*/
+saved_models/router_distilbert_before_*/
+saved_models/router_distilbert_auto_best/
+saved_models/router_distilbert_baseline/

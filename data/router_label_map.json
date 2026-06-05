@@ -1,0 +1,9 @@
+{
+  "KNOWLEDGE_QA": 0,
+  "AGENT_TASK": 1,
+  "FILE_QA": 2,
+  "USER_KNOWLEDGE_QA": 3,
+  "DIRECT_AI": 4,
+  "SYSTEM_ACTION": 5,
+  "UNKNOWN": 6
+}
